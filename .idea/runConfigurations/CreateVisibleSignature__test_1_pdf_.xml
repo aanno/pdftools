@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CreateVisibleSignature (test-1.pdf)" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="17" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="org.apache.pdfbox.examples.signature.CreateVisibleSignature" />
+    <module name="pdftools.main" />
+    <option name="PROGRAM_PARAMETERS" value="./src/test/resources/keyStore.p12 1234 ./src/test/resources/test-1.pdf ./src/test/resources/arrow.jpg -tsa https://freetsa.org/tsr -e -Djava.net.useSystemProxies=true" />
+    <option name="VM_PARAMETERS" value="-Djava.net.useSystemProxies=true" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="org.apache.pdfbox.examples.signature.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
