@@ -83,3 +83,11 @@ Java based pdf CLI tools (and pdf library overview).
 ## other languages
 
 * https://github.com/pdfcpu/pdfcpu go
+* [LocalSigner](https://www.e-service.admin.ch/wiki/display/openegovdoc/LocalSigner+Download)
+
+## TSA Time Services
+
+* https://www.bit.admin.ch/bit/de/home/subsites/allgemeines-zur-swiss-government-pki/tsa-service.html
+* https://www.pki.dfn.de/zeitstempeldienst/
+  + https://www.pki.dfn.de/faqpki/faq-zeitstempel
+  + https://doku.tid.dfn.de/de:dfnpki:dfnpki_root_certs
