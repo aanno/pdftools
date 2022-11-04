@@ -84,6 +84,10 @@ Java based pdf CLI tools (and pdf library overview).
 
 * https://github.com/pdfcpu/pdfcpu go
 * [LocalSigner](https://www.e-service.admin.ch/wiki/display/openegovdoc/LocalSigner+Download)
+* https://podofo.sourceforge.net/index.html c++
+  + https://podofo.sourceforge.net/about.html
+  + https://podofo.sourceforge.net/doc/html/classPoDoFo_1_1PdfAction.html
+  + https://github.com/pdfmm/pdfmm
 
 ## TSA Time Services
 
